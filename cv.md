@@ -35,3 +35,16 @@ else {
 
 }
 ```
+## Skills
+____
+* HTML5
+* CSS3
+* JavaScript Basics
+___
+## Languages
++ Ukrainian - Native
++ Russian - Native
++ English - B1
+___
+## Courses
+* HTML and CSS Tutorial [resultschool](https://result.school/)(completed)
