@@ -32,7 +32,7 @@ else {
     }
     console.log(`The factorial of ${number} is ${fact}.`);
 }
-
+ 
 }
 ```
 ## Skills
